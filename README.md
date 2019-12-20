@@ -21,14 +21,14 @@ Se você observar bem, as telas de configuração tem um mesmo padrão ([Veja um
 
  - Carregar os dados de uma API
  - Exibir formatados de acordo com o tipo do dado com alguma informação
- - Permitir clique na informação que leva a um `"modal" `com um `form` para poder `atualizar` os dados
+ - Permitir clique na informação que leva a um `"modal" `com um `form` para poder `atualizar` os dados
  - Envia dados para API
  - Modal fecha automaticamente
  - Atualizar a informações exibidas na tela
 
 Por isso queremos que você implemente um padrão para criar uma tela de configuração de maneira mais rápida!!!!
 
-## _"Detalhes tão pequenos de nós dois..."_ 
+## _"Detalhes tão pequenos de nós dois..."_
 ![Roberto Carlos](assets/rei.png)
 
 - Aplicação precisa contemplar somente o **FRONT-END** em `Vue.js`
